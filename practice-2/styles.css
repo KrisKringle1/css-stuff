@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+  height: 200px;
+}
+
+ul li {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background-color: lightblue;
+  margin: 5px;
+  padding: 10px;
+}
